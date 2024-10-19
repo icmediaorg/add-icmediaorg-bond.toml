@@ -1,1 +1,17 @@
 # add-icmediaorg-bond.toml
+[[bond]]
+source = "tpknam1qp6mmfytcj4ysf8q677shq3mnf56e09nt9a2y0ar565pa4ggphk7s9p6z4w"
+validator = "tnam1q9skz9pj8rac6tnjkcahqw7q68tg5ekgmsxurann"
+amount = "40"
+
+[bond.signatures]
+tpknam1qp6mmfytcj4ysf8q677shq3mnf56e09nt9a2y0ar565pa4ggphk7s9p6z4w = "signam1qpcc8qgswd4u8w2lzukr0fjqrxvte8zuk3aee5ugfm8sleu72tszkdw632ngywfecm68n6z0e5gj85f6w3w298tfede2fpjdltfkjggt3038m0"
+
+
+[[bond]]
+source = "tpknam1qp6mmfytcj4ysf8q677shq3mnf56e09nt9a2y0ar565pa4ggphk7s9p6z4w"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "10"
+
+[bond.signatures]
+tpknam1qp6mmfytcj4ysf8q677shq3mnf56e09nt9a2y0ar565pa4ggphk7s9p6z4w = "signam1qz6060wgwlaqycgajle0daa5tqraw7hk7vncehpnm7w3nxqeg85fr4f9ls6wkry3ysq9vxch06gwt6500a8ghf2xjgh9xh3exrjmnpgxu9wwwm"
